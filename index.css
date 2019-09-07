@@ -4,9 +4,28 @@ body {
 .btn {
     cursor: pointer;
 }
+li {
+    list-style: none;
+}
+li, 
+span {
+    margin-left: 20px;
+    font-size: 16pt;
+}
+input {
+    text-align: center;
+    font-size: 13pt;
+    width: 18%;
+    padding: 10px;
+}
 
 body {
-    color: #34495e;
+    color: #ffffff;
+}
+
+
+.js-clock {
+    font-size: 40pt;
 }
 
 .clicked {
@@ -22,7 +41,15 @@ body {
     display: block;
 }
 
-
+.head-weather,
+.js-weather {
+    text-align: right;
+    font-size: 20pt;
+    height: 20%;
+}
+.content {
+    text-align: center;
+}
 
 @keyframes fadeIn {
     form {
