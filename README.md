@@ -1,3 +1,2 @@
-# VanillaJS
+# VanillaJS Momentum
 
-<a href="https://doorisopen.github.io/VanillaJS/"> Let go Momentum<a>
